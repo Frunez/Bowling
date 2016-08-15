@@ -1,21 +1,22 @@
 
-Bowling = function(){
-  this.score = 0;
-};
+function Bowling(){
+}
 
-Bowling.prototype.roll = function() {
-  this.score = score;
-  if (this.score == null) {
-    return this.score = this.randomBowl();
+Bowling.prototype.roll = function(score) {
+  if (score == null) {
+    this.randomBowl();
+    return this.score;
   }
-  return this.score = score;
-};
-
-Bowling.prototype.getScore = function(score) {
-  this.getScore();
+  this.score = score;
   return this.score;
 };
 
 Bowling.prototype.randomBowl = function() {
-  return Math.floor(Math.random()*11);
+  if (this.score == null || 0) {
+    this.score = Math.floor(Math.random()*11);
+    return this.score;
+  }
+  var rest = 11 - this.score;
+  this.score = Math.floor(Math.random()*rest);
+  return this.score;
 };

@@ -1,7 +1,7 @@
 {
-  "name": "thermostat",
+  "name": "bowling",
   "version": "1.0.0",
-  "description": "week five makers",
+  "description": "10 pin bowling",
   "main": "index.js",
   "dependencies": {
     "jquery": "^3.1.0",
