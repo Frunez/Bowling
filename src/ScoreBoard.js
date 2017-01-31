@@ -1,8 +1,10 @@
 function ScoreBoard() {
   this.firstScore = 0;
   this.secondScore = 0;
-  this.frame = [];
   this.isFirstTurn = true;
+  this.frame = [];
+  this.allFrames = [];
+  this.turnTotal = 0;
 }
 
 ScoreBoard.prototype.firstRoll = function(score) {
