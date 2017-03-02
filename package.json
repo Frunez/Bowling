@@ -9,16 +9,26 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Frunez/thermostat.git"
   },
-  "author": "",
+  "author": "Francesco Nunez Alessi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Frunez/thermostat/issues"
   },
-  "homepage": "https://github.com/Frunez/thermostat#readme"
+  "homepage": "https://github.com/Frunez/thermostat#readme",
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [
+    "bowling",
+    "web",
+    "app",
+    "javascript"
+  ]
 }
