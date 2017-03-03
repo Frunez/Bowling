@@ -10,10 +10,12 @@ You may have guessed this already from the title and it's indeed true it's a bow
 * A ball that actually rolls when you click roll (yep it's awesome I know)
 * Random scoring on roll (from gutter to strike)
 * Awesome bowler-esque background
-### To be implemented:
+
+#### To be implemented:
 * Spare and Strike scoring rules
 * 10th frame triple roll:
-### May be implemented
+
+#### May be implemented
 * Bowling pins that fall over depending on score
 * Fade in words that say stuff like SPARE! STRRRRRRIKE! and GUTTERRRRR!
 * Mutable audio
