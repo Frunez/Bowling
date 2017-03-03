@@ -1,4 +1,4 @@
-# Bowling App
+# :bowling:Bowling App:bowling:
 
 ## Description
 
@@ -7,15 +7,15 @@ You may have guessed this already from the title and it's indeed true it's a bow
 ## Features
 
 * Aesthetic scoreboard, score for each roll with total score for each turn/frame and a grand total score.
-* A ball that actually rolls when you click roll (yep it's awesome I know)
+* A ball that actually rolls when you click roll (yep it's awesome I know):eyes:
 * Random scoring on roll (from gutter to strike)
 * Awesome bowler-esque background
 
-#### To be implemented:
+####To be implemented:coffee:
 * Spare and Strike scoring rules
-* 10th frame triple roll:
+* 10th frame triple roll
 
-#### May be implemented
+####May be implemented:thought_balloon:
 * Bowling pins that fall over depending on score
 * Fade in words that say stuff like SPARE! STRRRRRRIKE! and GUTTERRRRR!
 * Mutable audio
@@ -27,7 +27,8 @@ You may have guessed this already from the title and it's indeed true it's a bow
 * JQuery
 * HTML
 * CSS
-### Will eventually use:
+
+#### Will eventually use:
 * Node.js
 * HTTP-Server
 * Heroku
