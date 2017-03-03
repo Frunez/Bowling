@@ -2,7 +2,7 @@
 
 ## Description
 
-You have guessed this already from the title and it's indeed true it's a bowling app! It still needs work :construction: as it does not contain all the features of an actual bowling game.
+You may have guessed this already from the title and it's indeed true it's a bowling app! It still needs work :construction: as it does not contain all the features of an actual bowling game.
 
 ## Features
 
